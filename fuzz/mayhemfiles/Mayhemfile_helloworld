@@ -1,0 +1,7 @@
+project: cacao
+target: helloworld
+duration: 90
+
+cmds:
+    - cmd: /helloworld
+
